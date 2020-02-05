@@ -58,7 +58,8 @@
   #navbar nav a:not(:last-child) {display: none;}
     .menu-icon a {
       float: right;
-      display: block;}
+      display: block;
+      width: auto;}
     #logo {
       padding: 60px 0 0;
     }
