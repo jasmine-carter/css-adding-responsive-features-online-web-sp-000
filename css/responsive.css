@@ -59,5 +59,8 @@
     .menu-icon a {
       float: left;
       display: block;}
+    #logo {
+      padding: 60px 0 0;
+    }
   }
 }
