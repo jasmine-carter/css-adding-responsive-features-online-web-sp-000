@@ -53,15 +53,3 @@
     height: auto;
   }
 }
-/*bonus breakpoint */
-@media screen and (max-width: 700px) {
-  #navbar nav a:not(:last-child) {display: none;}
-    .menu-icon a {
-      float: right;
-      display: block;
-      width: auto;}
-    #logo {
-      padding: 60px 0 0;
-    }
-  }
-}
