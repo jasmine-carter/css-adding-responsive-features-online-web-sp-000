@@ -57,7 +57,7 @@
 @media screen and (max-width: 700px) {
   #navbar nav a:not(:last-child) {display: none;}
     .menu-icon a {
-      float: left;
+      float: right;
       display: block;}
     #logo {
       padding: 60px 0 0;
