@@ -55,9 +55,12 @@
 }
 /*bonus breakpoint */
 @media screen and (max-width: 700px) {
-  #navbar nav a:not(:last-child) {display: none;}
-    .menu-icon a {
-      float: left;
-      display: block;}
+  #navbar nav a{
+    display:none;
+  }
+  #navbar nav a.menu-icon {
+  display: block;
+  float: right;
+  width: auto;
   }
 }
